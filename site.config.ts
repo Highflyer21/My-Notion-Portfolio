@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'My-Notion-Portfolio',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'sustaining-saxophone-fd0',
   author: 'Julius-Ogunsola',
 
   // open graph metadata (optional)
